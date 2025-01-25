@@ -1,0 +1,250 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [
+      {
+        "menuName": "RenameTemplate",
+        "functionName": "RenameTemplate"
+      },
+      {
+        "menuName": "mytable",
+        "functionName": "mytable"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "finds",
+        "functionName": "finds"
+      },
+      {
+        "menuName": "hiddengem",
+        "functionName": "hiddengem"
+      },
+      {
+        "menuName": "resetfill",
+        "functionName": "resetfill"
+      },
+      {
+        "menuName": "newsheet",
+        "functionName": "newsheet"
+      },
+      {
+        "menuName": "nmrng",
+        "functionName": "nmrng"
+      },
+      {
+        "menuName": "AddToAging",
+        "functionName": "AddToAging"
+      },
+      {
+        "menuName": "myins",
+        "functionName": "myins"
+      },
+      {
+        "menuName": "myinsrel",
+        "functionName": "myinsrel"
+      },
+      {
+        "menuName": "act",
+        "functionName": "act"
+      },
+      {
+        "menuName": "clearBanding",
+        "functionName": "clearBanding"
+      },
+      {
+        "menuName": "UpdateNmRange",
+        "functionName": "UpdateNmRange"
+      },
+      {
+        "menuName": "copyRow",
+        "functionName": "copyRow"
+      },
+      {
+        "menuName": "linkIt",
+        "functionName": "linkIt"
+      },
+      {
+        "menuName": "blah",
+        "functionName": "blah"
+      },
+      {
+        "menuName": "GreenBckGrnd",
+        "functionName": "GreenBckGrnd"
+      },
+      {
+        "menuName": "MyAutofill",
+        "functionName": "MyAutofill"
+      },
+      {
+        "menuName": "MyAutoFill2",
+        "functionName": "MyAutoFill2"
+      },
+      {
+        "menuName": "deleteme",
+        "functionName": "deleteme"
+      },
+      {
+        "menuName": "bkgrnd",
+        "functionName": "bkgrnd"
+      },
+      {
+        "menuName": "act",
+        "functionName": "act"
+      },
+      {
+        "menuName": "updateNmRng",
+        "functionName": "updateNmRng"
+      },
+      {
+        "menuName": "lockit",
+        "functionName": "lockit"
+      },
+      {
+        "menuName": "unlockit",
+        "functionName": "unlockit"
+      },
+      {
+        "menuName": "delrw",
+        "functionName": "delrw"
+      },
+      {
+        "menuName": "delsheets",
+        "functionName": "delsheets"
+      },
+      {
+        "menuName": "delnmrng",
+        "functionName": "delnmrng"
+      },
+      {
+        "menuName": "unhidesheet",
+        "functionName": "unhidesheet"
+      },
+      {
+        "menuName": "mysort",
+        "functionName": "mysort"
+      },
+      {
+        "menuName": "cellMerge",
+        "functionName": "cellMerge"
+      },
+      {
+        "menuName": "stuff",
+        "functionName": "stuff"
+      },
+      {
+        "menuName": "AR_MainTitle",
+        "functionName": "AR_MainTitle"
+      },
+      {
+        "menuName": "AR_MoneyHeading",
+        "functionName": "AR_MoneyHeading"
+      },
+      {
+        "menuName": "AR_ColumnTitles",
+        "functionName": "AR_ColumnTitles"
+      },
+      {
+        "menuName": "AR_ColSizes",
+        "functionName": "AR_ColSizes"
+      },
+      {
+        "menuName": "select",
+        "functionName": "select"
+      },
+      {
+        "menuName": "seldel",
+        "functionName": "seldel"
+      },
+      {
+        "menuName": "freezefool",
+        "functionName": "freezefool"
+      },
+      {
+        "menuName": "formu",
+        "functionName": "formu"
+      },
+      {
+        "menuName": "CtrlDown",
+        "functionName": "CtrlDown"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "delshiftup",
+        "functionName": "delshiftup"
+      },
+      {
+        "menuName": "deleteme",
+        "functionName": "deleteme"
+      },
+      {
+        "menuName": "outborder",
+        "functionName": "outborder"
+      },
+      {
+        "menuName": "res",
+        "functionName": "res"
+      },
+      {
+        "menuName": "dt",
+        "functionName": "dt"
+      },
+      {
+        "menuName": "HomeIcon",
+        "functionName": "HomeIcon"
+      },
+      {
+        "menuName": "delNmRng",
+        "functionName": "delNmRng"
+      },
+      {
+        "menuName": "button",
+        "functionName": "button"
+      },
+      {
+        "menuName": "clearRow",
+        "functionName": "clearRow"
+      },
+      {
+        "menuName": "movesheet",
+        "functionName": "movesheet"
+      },
+      {
+        "menuName": "protectSheet",
+        "functionName": "protectSheet"
+      },
+      {
+        "menuName": "unprotect",
+        "functionName": "unprotect"
+      },
+      {
+        "menuName": "ProtectWholeSht",
+        "functionName": "ProtectWholeSht"
+      }
+    ]
+  },
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "MYSELF"
+  }
+}
