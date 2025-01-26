@@ -371,7 +371,6 @@ function buildSheets(){
       if (arBool.includes(true)){
         const arPrompt = ui.alert("Are you sure you want to proceed? This will delete the Aging Report & all supporting data! Client sheets created with this add-on will be preserved.",ui.ButtonSet.YES_NO);
         if (arPrompt == ui.Button.YES) {
-          //const keepClients = true;
 
           try{
             arShtNms.map(str => ssActive.deleteSheet(ssActive.getSheetByName(str)));    
