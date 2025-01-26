@@ -55,7 +55,7 @@ function newClient() {
     const strNewClientNm = arInputBx[1];
     if(!strNewClientNm.isBlank && strNewClientNm){ 
       
-      //Duplicate template sheet for new client
+      //Duplicate template sheet for new clients
         unlockit(shtTemplate);
         
         shtTemplate.activate();
