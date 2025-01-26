@@ -147,7 +147,6 @@ function newClient() {
 
         shtAging.autoResizeColumn(1);
         mySort(shtAging, startRow);
-        shtAging.getRange("A8").activate();
         lockit(shtAging,'AgingSheetLock');
 
       //Add client sheet to Settings lookup
