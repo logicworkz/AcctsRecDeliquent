@@ -1,5 +1,3 @@
-test vsc ResizeObserverEntry
-
 let str = "98/58 Dribbly Ln";
 str = str.split(" ").join("");
 
